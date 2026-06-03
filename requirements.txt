@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+openpyxl
+pdfplumber
+python-docx
+rapidfuzz
